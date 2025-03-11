@@ -7,7 +7,7 @@ Hello! 👋 I'm an MSc student in **Autonomous Systems** 🎓. I have a backgrou
 - **Social Robotics**: Working on **mutimodal interactions** between robots and human.
 - **Computer Vision**: Exploring **Deep Learning** techniques for **super-resolution** image processing and **anomaly detection** in video streams.
 
-## Note: Most of the repositories have been forked or transfered from my university github account [nigitha03](https://github.com/nigitha03)
+### Note: Most of the repositories have been forked or transfered from my university github account [nigitha03](https://github.com/nigitha03)
 
 ## 📫 Reach Out
 - [LinkedIn](https://www.linkedin.com/in/nigitha-s-8b7023194/)
